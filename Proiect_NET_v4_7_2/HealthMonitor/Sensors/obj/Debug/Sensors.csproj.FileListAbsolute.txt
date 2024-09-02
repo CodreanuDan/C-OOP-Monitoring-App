@@ -1,0 +1,10 @@
+D:\FACULTATE\AN4\Semestrul 2\OOP\Proiect_NET_v4_7_2\HealthMonitor\Sensors\bin\Debug\Sensors.exe.config
+D:\FACULTATE\AN4\Semestrul 2\OOP\Proiect_NET_v4_7_2\HealthMonitor\Sensors\bin\Debug\Sensors.exe
+D:\FACULTATE\AN4\Semestrul 2\OOP\Proiect_NET_v4_7_2\HealthMonitor\Sensors\bin\Debug\Sensors.pdb
+D:\FACULTATE\AN4\Semestrul 2\OOP\Proiect_NET_v4_7_2\HealthMonitor\Sensors\obj\Debug\Sensors.csproj.AssemblyReference.cache
+D:\FACULTATE\AN4\Semestrul 2\OOP\Proiect_NET_v4_7_2\HealthMonitor\Sensors\obj\Debug\Sensors.csproj.CoreCompileInputs.cache
+D:\FACULTATE\AN4\Semestrul 2\OOP\Proiect_NET_v4_7_2\HealthMonitor\Sensors\obj\Debug\Sensors.exe
+D:\FACULTATE\AN4\Semestrul 2\OOP\Proiect_NET_v4_7_2\HealthMonitor\Sensors\obj\Debug\Sensors.pdb
+D:\FACULTATE\AN4\Semestrul 2\OOP\Proiect_NET_v4_7_2\HealthMonitor\Sensors\bin\Debug\CommonReferences.dll
+D:\FACULTATE\AN4\Semestrul 2\OOP\Proiect_NET_v4_7_2\HealthMonitor\Sensors\bin\Debug\CommonReferences.pdb
+D:\FACULTATE\AN4\Semestrul 2\OOP\Proiect_NET_v4_7_2\HealthMonitor\Sensors\obj\Debug\Sensors.csproj.Up2Date

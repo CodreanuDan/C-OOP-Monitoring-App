@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DataStore||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC49662-7274-450F-9596-4B5FABD4BAF9}|DataStore\\DataStore.csproj|d:\\facultate\\an4\\semestrul 2\\oop\\proiect_net_v4_7_2\\healthmonitor\\datastore\\dal_patientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC49662-7274-450F-9596-4B5FABD4BAF9}|DataStore\\DataStore.csproj|solutionrelative:datastore\\dal_patientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68712703-CD96-4B03-983A-17A97BC5A0F4}|TCPCommunication\\TCPCommunication.csproj|d:\\facultate\\an4\\semestrul 2\\oop\\proiect_net_v4_7_2\\healthmonitor\\tcpcommunication\\tcpcommserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68712703-CD96-4B03-983A-17A97BC5A0F4}|TCPCommunication\\TCPCommunication.csproj|solutionrelative:tcpcommunication\\tcpcommserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68712703-CD96-4B03-983A-17A97BC5A0F4}|TCPCommunication\\TCPCommunication.csproj|d:\\facultate\\an4\\semestrul 2\\oop\\proiect_net_v4_7_2\\healthmonitor\\tcpcommunication\\tcpcommclient .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68712703-CD96-4B03-983A-17A97BC5A0F4}|TCPCommunication\\TCPCommunication.csproj|solutionrelative:tcpcommunication\\tcpcommclient .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A7FD30-4157-4126-A49E-AC46D38A9F86}|DataPresentation_new\\DataPresentation_new.csproj|d:\\facultate\\an4\\semestrul 2\\oop\\proiect_net_v4_7_2\\healthmonitor\\datapresentation_new\\form_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A7FD30-4157-4126-A49E-AC46D38A9F86}|DataPresentation_new\\DataPresentation_new.csproj|solutionrelative:datapresentation_new\\form_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6432025-E93B-4DB2-91C4-3FC7CE1706E3}|Sensors\\Sensors.csproj|d:\\facultate\\an4\\semestrul 2\\oop\\proiect_net_v4_7_2\\healthmonitor\\sensors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6432025-E93B-4DB2-91C4-3FC7CE1706E3}|Sensors\\Sensors.csproj|solutionrelative:sensors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6432025-E93B-4DB2-91C4-3FC7CE1706E3}|Sensors\\Sensors.csproj|d:\\facultate\\an4\\semestrul 2\\oop\\proiect_net_v4_7_2\\healthmonitor\\sensors\\pumpsensorvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6432025-E93B-4DB2-91C4-3FC7CE1706E3}|Sensors\\Sensors.csproj|solutionrelative:sensors\\pumpsensorvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6432025-E93B-4DB2-91C4-3FC7CE1706E3}|Sensors\\Sensors.csproj|d:\\facultate\\an4\\semestrul 2\\oop\\proiect_net_v4_7_2\\healthmonitor\\sensors\\sensorvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6432025-E93B-4DB2-91C4-3FC7CE1706E3}|Sensors\\Sensors.csproj|solutionrelative:sensors\\sensorvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83724D5C-A246-4258-BD3A-4551D12F46C5}|CommonReferences\\CommonReferences.csproj|d:\\facultate\\an4\\semestrul 2\\oop\\proiect_net_v4_7_2\\healthmonitor\\commonreferences\\commonrefernces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83724D5C-A246-4258-BD3A-4551D12F46C5}|CommonReferences\\CommonReferences.csproj|solutionrelative:commonreferences\\commonrefernces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC49662-7274-450F-9596-4B5FABD4BAF9}|DataStore\\DataStore.csproj|d:\\facultate\\an4\\semestrul 2\\oop\\proiect_net_v4_7_2\\healthmonitor\\datastore\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{BFC49662-7274-450F-9596-4B5FABD4BAF9}|DataStore\\DataStore.csproj|solutionrelative:datastore\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 283,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataStore",
+              "DocumentMoniker": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\DataStore\\DataStore.csproj",
+              "RelativeDocumentMoniker": "DataStore\\DataStore.csproj",
+              "ToolTip": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\DataStore\\DataStore.csproj",
+              "RelativeToolTip": "DataStore\\DataStore.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-31T05:19:44.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\Sensors\\Program.cs",
+              "RelativeDocumentMoniker": "Sensors\\Program.cs",
+              "ToolTip": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\Sensors\\Program.cs",
+              "RelativeToolTip": "Sensors\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:55:34.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SensorValue.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\Sensors\\SensorValue.cs",
+              "RelativeDocumentMoniker": "Sensors\\SensorValue.cs",
+              "ToolTip": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\Sensors\\SensorValue.cs",
+              "RelativeToolTip": "Sensors\\SensorValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:55:32.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TCPCommClient .cs",
+              "DocumentMoniker": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\TCPCommunication\\TCPCommClient .cs",
+              "RelativeDocumentMoniker": "TCPCommunication\\TCPCommClient .cs",
+              "ToolTip": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\TCPCommunication\\TCPCommClient .cs",
+              "RelativeToolTip": "TCPCommunication\\TCPCommClient .cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:55:27.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TCPCommServer.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\TCPCommunication\\TCPCommServer.cs",
+              "RelativeDocumentMoniker": "TCPCommunication\\TCPCommServer.cs",
+              "ToolTip": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\TCPCommunication\\TCPCommServer.cs",
+              "RelativeToolTip": "TCPCommunication\\TCPCommServer.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:55:26.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommonRefernces.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\CommonReferences\\CommonRefernces.cs",
+              "RelativeDocumentMoniker": "CommonReferences\\CommonRefernces.cs",
+              "ToolTip": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\CommonReferences\\CommonRefernces.cs",
+              "RelativeToolTip": "CommonReferences\\CommonRefernces.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:55:07.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_new.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\DataPresentation_new\\Form_new.cs",
+              "RelativeDocumentMoniker": "DataPresentation_new\\Form_new.cs",
+              "ToolTip": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\DataPresentation_new\\Form_new.cs",
+              "RelativeToolTip": "DataPresentation_new\\Form_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:55:03.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PumpSensorValues.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\Sensors\\PumpSensorValues.cs",
+              "RelativeDocumentMoniker": "Sensors\\PumpSensorValues.cs",
+              "ToolTip": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\Sensors\\PumpSensorValues.cs",
+              "RelativeToolTip": "Sensors\\PumpSensorValues.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:55:33.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAL_PatientData.cs",
+              "DocumentMoniker": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\DataStore\\DAL_PatientData.cs",
+              "RelativeDocumentMoniker": "DataStore\\DAL_PatientData.cs",
+              "ToolTip": "D:\\FACULTATE\\AN4\\Semestrul 2\\OOP\\Proiect_NET_v4_7_2\\HealthMonitor\\DataStore\\DAL_PatientData.cs",
+              "RelativeToolTip": "DataStore\\DAL_PatientData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:54:52.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

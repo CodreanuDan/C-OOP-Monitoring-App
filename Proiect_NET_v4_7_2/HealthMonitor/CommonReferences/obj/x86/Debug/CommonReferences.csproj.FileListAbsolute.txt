@@ -1,0 +1,6 @@
+D:\FACULTATE\AN4\Semestrul 2\OOP\Proiect_NET_v4_7_2\HealthMonitor\CommonReferences\bin\x86\Debug\CommonReferences.dll
+D:\FACULTATE\AN4\Semestrul 2\OOP\Proiect_NET_v4_7_2\HealthMonitor\CommonReferences\bin\x86\Debug\CommonReferences.pdb
+D:\FACULTATE\AN4\Semestrul 2\OOP\Proiect_NET_v4_7_2\HealthMonitor\CommonReferences\obj\x86\Debug\CommonReferences.csproj.AssemblyReference.cache
+D:\FACULTATE\AN4\Semestrul 2\OOP\Proiect_NET_v4_7_2\HealthMonitor\CommonReferences\obj\x86\Debug\CommonReferences.csproj.CoreCompileInputs.cache
+D:\FACULTATE\AN4\Semestrul 2\OOP\Proiect_NET_v4_7_2\HealthMonitor\CommonReferences\obj\x86\Debug\CommonReferences.dll
+D:\FACULTATE\AN4\Semestrul 2\OOP\Proiect_NET_v4_7_2\HealthMonitor\CommonReferences\obj\x86\Debug\CommonReferences.pdb
